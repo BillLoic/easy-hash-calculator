@@ -1,0 +1,19 @@
+# VS Configuration
+
+.vs
+.vscode
+
+# Pyinstaller build
+
+build/
+dist/
+*.spec
+
+# Python cacheing
+
+*.pyc
+__pycache__/
+*.pyd
+*.pyz
+*.pyo
+
